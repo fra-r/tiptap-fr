@@ -1,6 +1,6 @@
 {
     "name": "froedl/tiptap",
-    "description": "Tptap Test Projekt",
+    "description": "Tiptap Test Projekt",
     "type": "project",
     "license": "proprietary",
     "autoload": {

@@ -1,16 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
   This is gonna be an editor
+  <tip-tap/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import TipTap from "@/components/TipTap.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    TipTap,
   }
 }
 </script>
